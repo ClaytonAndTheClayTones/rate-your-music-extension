@@ -1,0 +1,42 @@
+.like-button
+{ 
+  color: white;
+  background-color: Green;
+  text-align: center;
+  min-height: 20px;
+  width: 120px;
+  border-radius: 4px;
+}
+
+.dislike-button
+{ 
+  color: white;
+  background-color: darkred;
+  text-align: center;
+  min-height: 20px;
+  width: 120px;
+  border-radius: 4px;
+  margin-left: -80%;
+}
+
+.unsure-button
+{ 
+  color: white;
+  background-color: darkblue;
+  text-align: center;
+  min-height: 20px;
+  width: 120px;
+  border-radius: 4px;
+  margin-left: -43%;
+}
+
+.unlistened-button
+{
+  color: white;
+  background-color: black;
+  text-align: center;
+  min-height: 20px;
+  width: 120px;
+  border-radius: 4px;
+  margin-left: -87%;
+}
